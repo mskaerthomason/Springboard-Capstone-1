@@ -1,5 +1,3 @@
-# Springboard-Capstone-1
-
 # First Capstone Project Proposal
 
 ## Maximizing fleet efficiency for a bike share company in Washington, D.C.
