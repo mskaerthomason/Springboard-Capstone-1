@@ -7,5 +7,7 @@ Were there outliers, and how did you decide to handle them?
 ### Focusing on sample of data - Q1 2016
 
 Data Wrangling Steps:
-1. Initial visualization of data structure, number of rows, type of data.
-2. 
+1. Read in the data
+2. Review the data (check for missing values, outliers, adjust formatting)
+3. Visualize the data (histograms, boxplots)
+
